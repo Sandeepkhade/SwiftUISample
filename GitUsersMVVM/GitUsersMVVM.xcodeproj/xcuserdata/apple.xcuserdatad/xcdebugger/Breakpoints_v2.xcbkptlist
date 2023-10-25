@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "32E41C7B-EA91-4692-873E-905E4FB2ED47"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7004D703-B651-4E83-8CAD-F2AFD31D1A53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitUsersMVVM/View/UserView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7004D703-B651-4E83-8CAD-F2AFD31D1A53 - 6d5b3deada2b4f56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in GitUsersMVVM.UserView.body.getter : some"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/View/UserView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "7004D703-B651-4E83-8CAD-F2AFD31D1A53 - 81ad4f8e084804ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #2 @Sendable () async -&gt; () in GitUsersMVVM.UserView.body.getter : some"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/View/UserView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "7004D703-B651-4E83-8CAD-F2AFD31D1A53 - 23612c6c074d8358"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in GitUsersMVVM.UserView.body.getter : some"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/View/UserView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7004D703-B651-4E83-8CAD-F2AFD31D1A53 - 464242cd5e1215b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #2 @Sendable () async -&gt; () in GitUsersMVVM.UserView.body.getter : some"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/View/UserView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7004D703-B651-4E83-8CAD-F2AFD31D1A53 - 6d5b3deada2b4f56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in GitUsersMVVM.UserView.body.getter : some"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/View/UserView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49B44264-DB69-4EC0-A559-962CCBBA0C3E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitUsersMVVM/ViewModel/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getUser(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "49B44264-DB69-4EC0-A559-962CCBBA0C3E - bb8da123471a4127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GitUsersMVVM.NetworkManager.getUser(url: Swift.String) async throws -&gt; GitUsersMVVM.GitHubUser"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/ViewModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "49B44264-DB69-4EC0-A559-962CCBBA0C3E - bb8da123471a4127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GitUsersMVVM.NetworkManager.getUser(url: Swift.String) async throws -&gt; GitUsersMVVM.GitHubUser"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/ViewModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "49B44264-DB69-4EC0-A559-962CCBBA0C3E - bb8da123471a4127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GitUsersMVVM.NetworkManager.getUser(url: Swift.String) async throws -&gt; GitUsersMVVM.GitHubUser"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/ViewModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "49B44264-DB69-4EC0-A559-962CCBBA0C3E - bb8da123471a4127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GitUsersMVVM.NetworkManager.getUser(url: Swift.String) async throws -&gt; GitUsersMVVM.GitHubUser"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/ViewModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07AD09B9-0865-43DE-9397-E0F912056015"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitUsersMVVM/ViewModel/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getGitFollowers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07AD09B9-0865-43DE-9397-E0F912056015 - 53d3724159c9a7d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitUsersMVVM.NetworkManager.getGitFollowers() async throws -&gt; Swift.Array&lt;GitUsersMVVM.GitFollowers&gt;"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/ViewModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1220">
+               </Location>
+               <Location
+                  uuid = "07AD09B9-0865-43DE-9397-E0F912056015 - 53d3724159c9a7d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitUsersMVVM.NetworkManager.getGitFollowers() async throws -&gt; Swift.Array&lt;GitUsersMVVM.GitFollowers&gt;"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/ViewModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "07AD09B9-0865-43DE-9397-E0F912056015 - 53d3724159c9a7d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitUsersMVVM.NetworkManager.getGitFollowers() async throws -&gt; Swift.Array&lt;GitUsersMVVM.GitFollowers&gt;"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/ViewModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B132330-8444-411C-9707-32EE8DF547F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitUsersMVVM/ViewModel/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getGitFollowers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8C7084E-0472-4A86-844B-EB2C05375233"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitUsersMVVM/ViewModel/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "getGitFollowers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C8C7084E-0472-4A86-844B-EB2C05375233 - 8be6448793e699a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GitUsersMVVM.NetworkManager.getGitFollowers() async throws -&gt; Swift.Array&lt;GitUsersMVVM.GitFollowers&gt;"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/ViewModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "C8C7084E-0472-4A86-844B-EB2C05375233 - 8be6448793e699a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GitUsersMVVM.NetworkManager.getGitFollowers() async throws -&gt; Swift.Array&lt;GitUsersMVVM.GitFollowers&gt;"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/ViewModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75AD1822-0665-4978-ADFA-ED402F624FA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitUsersMVVM/ViewModel/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getUser(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "75AD1822-0665-4978-ADFA-ED402F624FA0 - c675bc29236ffaf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitUsersMVVM.NetworkManager.getUser(url: Swift.String) async throws -&gt; GitUsersMVVM.GitHubUser"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/ViewModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "75AD1822-0665-4978-ADFA-ED402F624FA0 - c675bc29236ffaf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GitUsersMVVM.NetworkManager.getUser(url: Swift.String) async throws -&gt; GitUsersMVVM.GitHubUser"
+                  moduleName = "GitUsersMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/GitUsersMVVM/GitUsersMVVM/ViewModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
